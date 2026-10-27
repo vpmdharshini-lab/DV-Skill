@@ -180,7 +180,13 @@ This project analyzes student performance data and creates visualizations using 
 python students_performance_visualization.py
 ```
 
+# Week 9 - House Sales Data Analysis 🏠
 
+This project uses Python to analyze house sales data using Pandas, NumPy, Matplotlib, and Seaborn. It explores the dataset, checks its structure, and extracts year, month, day, hour, minute, and second from the sale date.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+**Dataset:** `kc_house_data.csv`
 
 ## Conclusion
 
